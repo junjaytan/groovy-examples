@@ -1,3 +1,4 @@
+#!/usr/bin/env groovy
 /**
  * Created by junjaytan on 11/19/15.
  */
